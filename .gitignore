@@ -1,0 +1,20 @@
+# Environment and virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Antigravity and Agent configurations
+.agents/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
